@@ -10,7 +10,7 @@ public class Mascota {
 
     public void dormir(){
         System.out.println(
-                "Buenas noches, nos vemos mañana!");
+                "Buenas noches, nos vemos manana!");
     }
 
     public void comer(){
